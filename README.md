@@ -28,7 +28,8 @@ First of all, clone this repo in your local environment and cd to the project's 
 git clone [....]
 cd our-memories-monolith
 ```
-you'll need  .env file with this key pointing to your localhost:
+you'll need  .env file with this keys:
+
 REACT_APP_API_URL
 REACT_APP_DIRECT_UPLOADS_URL
 PG_USERNAME
@@ -65,7 +66,7 @@ Contributions, issues, and feature requests are welcome!
 Miguel Prada
 
 GitHub: @ImMPrada
-LinkedIn: /in/ImMPrada/
+LinkedIn: /in/miguel-prada-15b7bb224/
 Contributing
 Contributions, issues, and feature requests are welcome!
 
