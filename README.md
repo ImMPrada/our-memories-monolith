@@ -2,7 +2,6 @@
 
 This is a WIP. Share and comment photos, make memories we your people
 
-<img width="1631" alt="image" src="https://user-images.githubusercontent.com/26731448/163223588-eabab4aa-89ec-4e19-8161-7f1943a1c692.png">
 <img width="1623" alt="image" src="https://user-images.githubusercontent.com/26731448/163223736-220c3d91-e127-46a7-995f-b9fab138d05f.png">
 
 
