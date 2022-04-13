@@ -30,13 +30,13 @@ cd our-memories-monolith
 ```
 you'll need  .env file with this keys:
 
-REACT_APP_API_URL
-REACT_APP_DIRECT_UPLOADS_URL
-PG_USERNAME
-PG_PASSWORD
-AWS_ACCESS_KEY_ID
-AWS_SECRET_ACCESS_KEY
-HOST_URL
+- REACT_APP_API_URL
+- REACT_APP_DIRECT_UPLOADS_URL
+- PG_USERNAME
+- PG_PASSWORD
+- AWS_ACCESS_KEY_ID
+- AWS_SECRET_ACCESS_KEY
+- HOST_URL
 
 ### install dependencies
 
@@ -58,10 +58,10 @@ rails s
 ## Authors
 Miguel Prada
 
-GitHub: @mapra99
-LinkedIn: /in/mapra99/
-Contributing
-Contributions, issues, and feature requests are welcome!
+- GitHub: @mapra99
+- LinkedIn: /in/mapra99/
+- Contributing
+- Contributions, issues, and feature requests are welcome!
 
 Miguel Prada
 
